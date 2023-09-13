@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DD9D9Zo2C5N2jgdggZxH1Ql/HB6WAQsZmGoFVvOi36yFby/pyeGRAF6mLwy74immDLB1TIBLqGRaB3UNM7JPoA==",
+  "success": true,
+  "projectFilePath": "C:\\workarea\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Regina\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
